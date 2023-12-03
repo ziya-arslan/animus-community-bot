@@ -1,0 +1,19 @@
+{
+  "name": "dmg-dc-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for Developer Multigroup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Ziya Arslan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
